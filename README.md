@@ -25,3 +25,5 @@ By writing the codes ( in the VM_ROS in the upload files ) you will install ROS 
  
 Controlling the motors:
 
+
+<img width="897" alt="Screen Shot 1442-11-25 at 4 19 31 PM" src="https://user-images.githubusercontent.com/86845134/124664645-70083e00-deb4-11eb-8073-b17d87c1a9be.png">
