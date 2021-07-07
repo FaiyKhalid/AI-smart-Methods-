@@ -1,4 +1,4 @@
-# Intrenship
+# Intrenship AI smart methods 
 # ![190605-artificial-intelligence-i-think-therefore-i-am](https://user-images.githubusercontent.com/86845134/124774223-4f88c400-df46-11eb-9517-6fd6b2d73348.jpg)
 
 ### First Task 
