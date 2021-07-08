@@ -4,3 +4,6 @@
 ## First Task 
 ### 1.1  install vertuall box & Ubuntu 18.04 [Done ](https://github.com/FaiyKhalid/AI-smart-Methods-/blob/main/1.1%20virtualBox%20%24%20ubuntu%2018.04.md)
 ### 1.2  install Ros : Robotic opreating system [Done ](https://github.com/FaiyKhalid/AI-smart-Methods-/blob/main/1.2%20install%20Ros%20:%20robotic%20operating%20system.md)
+
+## Second Task 
+### 2.1 updating a map for ROS robots using simultaneous localization and mapping (SLAM) in the Gazebo environment.
