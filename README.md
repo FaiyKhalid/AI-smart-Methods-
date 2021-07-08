@@ -6,4 +6,6 @@
 ### 1.2  install Ros : Robotic opreating system [Done ](https://github.com/FaiyKhalid/AI-smart-Methods-/blob/main/1.2%20install%20Ros%20:%20robotic%20operating%20system.md)
 
 ## Second Task 
-### 2.1 updating a map for ROS robots using simultaneous localization and mapping (SLAM) in the Gazebo environment.
+### 2.1 updating a map for ROS robots using simultaneous localization and mapping (SLAM) in the Gazebo environment 
+[Done ](https://github.com/FaiyKhalid/AI-smart-Methods-/blob/main/2.1.Simulation%2C%20Mapping%2C%20Controlling%20a%20turtlebot%20robot.md)
+
