@@ -8,5 +8,5 @@
     1.  Open haarcascade_frontalface_default.xml in the file section
     2. Click on the Raw
     3. Save this file in your working area
-- Third write the code in the file section and make close attention to the note beside it 
+- Third write the code in the file section and make close attention to the note beside it [Here ](https://github.com/FaiyKhalid/AI-smart-Methods-/blob/main/Detect%20Faces%20in%20jpg%20version.py)
 
