@@ -11,6 +11,7 @@
 
 ## Third Task 
 ### 3.1 Use OpenCV to make a real time face detection [Done ](https://github.com/FaiyKhalid/AI-smart-Methods-/blob/main/Third%20Task.md)
+### 3.2 Real time video with face detection [Done ]()
 
 
 
